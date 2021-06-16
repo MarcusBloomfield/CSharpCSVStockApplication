@@ -1,0 +1,10 @@
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\bin\Debug\C Sharp Programming Project.exe.config
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\bin\Debug\C Sharp Programming Project.exe
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\bin\Debug\C Sharp Programming Project.pdb
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C_Sharp_Programming_Project.Properties.Resources.resources
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C Sharp Programming Project.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C Sharp Programming Project.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C Sharp Programming Project.exe
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C Sharp Programming Project.pdb
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C_Sharp_Programming_Project.StockApplication.resources
+C:\Users\marcu\source\repos\C Sharp Programming Project\C Sharp Programming Project\obj\Debug\C Sharp Programming Project.csproj.AssemblyReference.cache
